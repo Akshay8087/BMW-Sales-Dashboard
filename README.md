@@ -1,7 +1,19 @@
 # 🚗 BMW Sales Dashboard | Power BI Project
 
 
+You can view the Power BI report using the following link:
+
+[Power BI Report](https://app.powerbi.com/links/bVSKXwdq0H?ctid=f27f8f85-2e4d-48c9-a159-477768221df8&pbi_source=linkShare&bookmarkGuid=062dafa1-d0fa-43a3-8d53-ffc95726758a)
+
+Feel free to explore the data and visualizations.
+
+
+
 ![Image](https://github.com/user-attachments/assets/c582eb18-75ef-40a2-a12f-98b58231a4e1)
+
+
+
+
 
 
 Welcome to the BMW Sales Dashboard — a powerful and interactive business intelligence tool built using Power BI. This project focuses on analyzing BMW sales data using advanced DAX measures and compelling visual storytelling to empower stakeholders with actionable insights.
