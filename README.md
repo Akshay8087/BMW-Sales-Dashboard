@@ -172,3 +172,13 @@ BMW-Sales-Dashboard/
 │   └── revenue-trends.png
 └── data/
     └── BMW_Sales_Data.csv          # Source sales dataset (if public)
+```
+
+## 📥 How to Use / Clone This Repo
+
+
+```bash
+# Open your terminal / command prompt
+git clone https://github.com/Akshay8087/BMW-Sales-Dashboard.git
+```
+
